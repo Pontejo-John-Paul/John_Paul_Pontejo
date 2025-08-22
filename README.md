@@ -1,7 +1,7 @@
 # John_Paul_Pontejo
-# My expectations about this subject, i will learned a lot from this subject. Like about how systems flow and 
-# its structure. Also this will help me to know how to build and connect it perfectly. Not only me will learned 
-# in this subject but also my classmates. Because of this subject our knowledge will grow more.
+My expectations about this subject, i will learned a lot from this subject. Like about how systems flow and 
+its structure. Also this will help me to know how to build and connect it perfectly. Not only me will learned 
+in this subject but also my classmates. Because of this subject our knowledge will grow more.
 
 # I'm thinking also that this subject will develop my skills through different platforms and environment
 # and this subject also will provide to me and my classmates knowledge needed to analyze, design, and integrate systems effectively. 
